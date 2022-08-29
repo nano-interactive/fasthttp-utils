@@ -1,4 +1,4 @@
-module github.com/nano-interactive.com/fasthttp-utils
+module github.com/nano-interactive/fasthttp-utils
 
 go 1.19
 
