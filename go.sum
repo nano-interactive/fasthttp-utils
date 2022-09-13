@@ -6,6 +6,8 @@ github.com/klauspost/compress v1.15.9 h1:wKRjX6JRtDdrE9qwa4b/Cip7ACOshUI4smpCQan
 github.com/klauspost/compress v1.15.9/go.mod h1:PhcZ0MbTNciWF3rruxRgKxI5NkcHHrHUDtV4Yw2GlzU=
 github.com/nano-interactive/go-utils v0.2.3 h1:lgzi196myz2MJdfHU0mA8Yb6iLEOCtr1I08YcT4DrnU=
 github.com/nano-interactive/go-utils v0.2.3/go.mod h1:Dt7m1Yy4PALEU8++ViQJeNYdCiOkeowlULeeaM5tgBI=
+github.com/nano-interactive/go-utils v0.4.0 h1:NhV6ecKGmcopQ5RMOogroA9yGqa+yeRSCPetSgEfeQE=
+github.com/nano-interactive/go-utils v0.4.0/go.mod h1:Dt7m1Yy4PALEU8++ViQJeNYdCiOkeowlULeeaM5tgBI=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/stretchr/testify v1.8.0 h1:pSgiaMZlXftHpm5L7V1+rVB+AZJydKsMxsQBIJw4PKk=
 github.com/valyala/bytebufferpool v1.0.0 h1:GqA5TC/0021Y/b9FG4Oi9Mr3q7XYx6KllzawFIhcdPw=
