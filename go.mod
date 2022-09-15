@@ -3,7 +3,7 @@ module github.com/nano-interactive/fasthttp-utils
 go 1.19
 
 require (
-	github.com/nano-interactive/go-utils v0.2.3
+	github.com/nano-interactive/go-utils v0.4.0
 	github.com/valyala/fasthttp v1.39.0
 )
 

@@ -5,10 +5,9 @@ import (
 	"net/http/pprof"
 	"strings"
 
+	"github.com/nano-interactive/go-utils"
 	"github.com/valyala/fasthttp"
 	"github.com/valyala/fasthttp/fasthttpadaptor"
-
-	"github.com/nano-interactive/go-utils"
 )
 
 var (
